@@ -8,7 +8,7 @@
     "build": "webpack --mode production",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Balabko",
+  "author": "Chernenko",
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.6",
